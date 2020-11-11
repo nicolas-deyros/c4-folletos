@@ -1,0 +1,641 @@
+{
+  "caba": [
+    {
+      "from": "2020-10-06 00:00:00",
+      "to": "2020-10-12 23:59:59",
+      "title": "🎂#CumpleCarrefour",
+      "thumb": "./assets/cumplecarrefour/2020/06al12/hiper/bsas/docs/aniversario-2-HIPER-BS-AS-alta.pdf_1_thumb.jpg",
+      "link": "./assets/cumplecarrefour/2020/06al12/hiper/bsas/"
+    },
+    {
+      "from": "2020-10-06 00:00:00",
+      "to": "2020-10-12 23:59:59",
+      "title": "🎂#CumpleCarrefour",
+      "thumb": "./assets/cumplecarrefour/2020/06al12/market/bsas/docs/aniversario-2-MARKET-BS-AS-alta.pdf_1_thumb.jpg",
+      "link": "./assets/cumplecarrefour/2020/06al12/market/bsas/"
+    },
+    {
+      "from": "2020-09-25 00:00:00",
+      "to": "2020-10-05 23:59:59",
+      "title": "🥳#CumpleCarrefour",
+      "thumb": "./assets/cumplecarrefour/2020/25al05/hiper/bsas/docs/Aniversario-1-HIPER-BS-AS_25-09-20_alta.pdf_1_thumb.jpg",
+      "link": "./assets/cumplecarrefour/2020/25al05/hiper/bsas/"
+    },
+    {
+      "from": "2020-09-25 00:00:00",
+      "to": "2020-10-05 23:59:59",
+      "title": "🥳#CumpleCarrefour",
+      "thumb": "./assets/cumplecarrefour/2020/25al05/market/bsas/docs/Aniversario-1-MARKET-BS-AS-25-09-20-alta.pdf_1_thumb.jpg",
+      "link": "./assets/cumplecarrefour/2020/25al05/market/bsas/"
+    },
+    {
+      "from": "2020-09-25 00:00:00",
+      "to": "2020-10-05 23:59:59",
+      "title": "Volante Express",
+      "thumb": "./assets/express/2020/09/25al05/docs/09-Volante-Marca-Propia-25-09-20-ALTA.pdf_1_thumb.jpg",
+      "link": "./assets/express/2020/09/25al05/"
+    },
+    {
+      "from": "2020-09-18 00:00:00",
+      "to": "2020-10-12 23:59:59",
+      "title": "Colecci&oacute;n TEX Primavera Verano",
+      "thumb": "./assets/tex_primavera/docs/Catalogo-Tex-PV-20-21.pdf_1_thumb.jpg",
+      "link": "./assets/tex_primavera/"
+    },
+    {
+      "from": "2020-10-01 00:00:00",
+      "to": "2020-10-27 23:59:59",
+      "title": "Tiempo Libre",
+      "thumb": "./assets/tiempo_libre/docs/Tiempo-Libre.pdf_1_thumb.jpg",
+      "link": "./assets/tiempo_libre/"
+    }
+  ],
+  "bsas": [
+    {
+      "from": "2020-10-06 00:00:00",
+      "to": "2020-10-12 23:59:59",
+      "title": "🎂#CumpleCarrefour",
+      "thumb": "./assets/cumplecarrefour/2020/06al12/hiper/interior/docs/aniversario-2-HIPER-INTERIOR-alta.pdf_1_thumb.jpg",
+      "link": "./assets/cumplecarrefour/2020/06al12/hiper/interior/"
+    },
+    {
+      "from": "2020-10-06 00:00:00",
+      "to": "2020-10-12 23:59:59",
+      "title": "🎂#CumpleCarrefour",
+      "thumb": "./assets/cumplecarrefour/2020/06al12/market/interior/docs/aniversario-2-MARKET-INTERIOR-alta.pdf_1_thumb.jpg",
+      "link": "./assets/cumplecarrefour/2020/06al12/market/interior/"
+    },
+    {
+      "from": "2020-09-25 00:00:00",
+      "to": "2020-10-05 23:59:59",
+      "title": "🥳#CumpleCarrefour",
+      "thumb": "./assets/cumplecarrefour/2020/25al05/hiper/interior/docs/Aniversario-1-HIPER-INT_25-09-20-alta.pdf_1_thumb.jpg",
+      "link": "./assets/cumplecarrefour/2020/25al05/hiper/interior/"
+    },
+    {
+      "from": "2020-09-25 00:00:00",
+      "to": "2020-10-05 23:59:59",
+      "title": "🥳#CumpleCarrefour",
+      "thumb": "./assets/cumplecarrefour/2020/25al05/market/interior/docs/Aniversario-1-MARKET-INTERIOR-25-09-20-alta.pdf_1_thumb.jpg",
+      "link": "./assets/cumplecarrefour/2020/25al05/market/interior/"
+    },
+    {
+      "from": "2020-09-25 00:00:00",
+      "to": "2020-10-05 23:59:59",
+      "title": "Volante Express",
+      "thumb": "./assets/express/2020/09/25al05/docs/09-Volante-Marca-Propia-25-09-20-ALTA.pdf_1_thumb.jpg",
+      "link": "./assets/express/2020/09/25al05/"
+    },
+    {
+      "from": "2020-09-18 00:00:00",
+      "to": "2020-10-12 23:59:59",
+      "title": "Colecci&oacute;n TEX Primavera Verano",
+      "thumb": "./assets/tex_primavera/docs/Catalogo-Tex-PV-20-21.pdf_1_thumb.jpg",
+      "link": "./assets/tex_primavera/"
+    },
+    {
+      "from": "2020-10-01 00:00:00",
+      "to": "2020-10-27 23:59:59",
+      "title": "Tiempo Libre",
+      "thumb": "./assets/tiempo_libre/docs/Tiempo-Libre.pdf_1_thumb.jpg",
+      "link": "./assets/tiempo_libre/"
+    }
+  ],
+  "catamarca": [
+    {
+      "from": "2020-10-06 00:00:00",
+      "to": "2020-10-12 23:59:59",
+      "title": "🎂#CumpleCarrefour",
+      "thumb": "./assets/cumplecarrefour/2020/06al12/hiper/interior/docs/aniversario-2-HIPER-INTERIOR-alta.pdf_1_thumb.jpg",
+      "link": "./assets/cumplecarrefour/2020/06al12/hiper/interior/"
+    },
+    {
+      "from": "2020-09-25 00:00:00",
+      "to": "2020-10-05 23:59:59",
+      "title": "🥳#CumpleCarrefour",
+      "thumb": "./assets/cumplecarrefour/2020/25al05/hiper/interior/docs/Aniversario-1-HIPER-INT_25-09-20-alta.pdf_1_thumb.jpg",
+      "link": "./assets/cumplecarrefour/2020/25al05/hiper/interior/"
+    }
+  ],
+  "chaco": [
+    {
+      "from": "2020-10-06 00:00:00",
+      "to": "2020-10-12 23:59:59",
+      "title": "🎂#CumpleCarrefour",
+      "thumb": "./assets/cumplecarrefour/2020/06al12/hiper/interior/docs/aniversario-2-HIPER-INTERIOR-alta.pdf_1_thumb.jpg",
+      "link": "./assets/cumplecarrefour/2020/06al12/hiper/interior/"
+    },
+    {
+      "from": "2020-09-25 00:00:00",
+      "to": "2020-10-05 23:59:59",
+      "title": "🥳#CumpleCarrefour",
+      "thumb": "./assets/cumplecarrefour/2020/25al05/hiper/interior/docs/Aniversario-1-HIPER-INT_25-09-20-alta.pdf_1_thumb.jpg",
+      "link": "./assets/cumplecarrefour/2020/25al05/hiper/interior/"
+    },
+    {
+      "from": "2020-09-18 00:00:00",
+      "to": "2020-10-12 23:59:59",
+      "title": "Colecci&oacute;n TEX Primavera Verano",
+      "thumb": "./assets/tex_primavera/docs/Catalogo-Tex-PV-20-21.pdf_1_thumb.jpg",
+      "link": "./assets/tex_primavera/"
+    },
+    {
+      "from": "2020-10-01 00:00:00",
+      "to": "2020-10-27 23:59:59",
+      "title": "Tiempo Libre",
+      "thumb": "./assets/tiempo_libre/docs/Tiempo-Libre.pdf_1_thumb.jpg",
+      "link": "./assets/tiempo_libre/"
+    }
+  ],
+  "chubut": [
+    {
+      "from": "2020-10-06 00:00:00",
+      "to": "2020-10-12 23:59:59",
+      "title": "🎂#CumpleCarrefour",
+      "thumb": "./assets/cumplecarrefour/2020/06al12/hiper/sur/docs/aniversario-2-SUR-alta.pdf_1_thumb.jpg",
+      "link": "./assets/cumplecarrefour/2020/06al12/hiper/sur/"
+    },
+    {
+      "from": "2020-09-25 00:00:00",
+      "to": "2020-10-05 23:59:59",
+      "title": "🥳#CumpleCarrefour",
+      "thumb": "./assets/cumplecarrefour/2020/25al05/hiper/sur/docs/Aniversario-1-SUR-_25-09-20_alta.pdf_1_thumb.jpg",
+      "link": "./assets/cumplecarrefour/2020/25al05/hiper/sur/"
+    }
+  ],
+  "cordoba": [
+    {
+      "from": "2020-10-06 00:00:00",
+      "to": "2020-10-12 23:59:59",
+      "title": "🎂#CumpleCarrefour",
+      "thumb": "./assets/cumplecarrefour/2020/06al12/hiper/interior/docs/aniversario-2-HIPER-INTERIOR-alta.pdf_1_thumb.jpg",
+      "link": "./assets/cumplecarrefour/2020/06al12/hiper/interior/"
+    },
+    {
+      "from": "2020-10-06 00:00:00",
+      "to": "2020-10-12 23:59:59",
+      "title": "🎂#CumpleCarrefour",
+      "thumb": "./assets/cumplecarrefour/2020/06al12/market/interior/docs/aniversario-2-MARKET-INTERIOR-alta.pdf_1_thumb.jpg",
+      "link": "./assets/cumplecarrefour/2020/06al12/market/interior/"
+    },
+    {
+      "from": "2020-09-25 00:00:00",
+      "to": "2020-10-05 23:59:59",
+      "title": "🥳#CumpleCarrefour",
+      "thumb": "./assets/cumplecarrefour/2020/25al05/hiper/interior/docs/Aniversario-1-HIPER-INT_25-09-20-alta.pdf_1_thumb.jpg",
+      "link": "./assets/cumplecarrefour/2020/25al05/hiper/interior/"
+    },
+    {
+      "from": "2020-09-25 00:00:00",
+      "to": "2020-10-05 23:59:59",
+      "title": "🥳#CumpleCarrefour",
+      "thumb": "./assets/cumplecarrefour/2020/25al05/market/interior/docs/Aniversario-1-MARKET-INTERIOR-25-09-20-alta.pdf_1_thumb.jpg",
+      "link": "./assets/cumplecarrefour/2020/25al05/market/interior/"
+    },
+    {
+      "from": "2020-09-25 00:00:00",
+      "to": "2020-10-05 23:59:59",
+      "title": "Volante Express",
+      "thumb": "./assets/express/2020/09/25al05/docs/09-Volante-Marca-Propia-25-09-20-ALTA.pdf_1_thumb.jpg",
+      "link": "./assets/express/2020/09/25al05/"
+    },
+    {
+      "from": "2020-09-18 00:00:00",
+      "to": "2020-10-12 23:59:59",
+      "title": "Colecci&oacute;n TEX Primavera Verano",
+      "thumb": "./assets/tex_primavera/docs/Catalogo-Tex-PV-20-21.pdf_1_thumb.jpg",
+      "link": "./assets/tex_primavera/"
+    },
+    {
+      "from": "2020-10-01 00:00:00",
+      "to": "2020-10-27 23:59:59",
+      "title": "Tiempo Libre",
+      "thumb": "./assets/tiempo_libre/docs/Tiempo-Libre.pdf_1_thumb.jpg",
+      "link": "./assets/tiempo_libre/"
+    }
+  ],
+  "corrientes": [
+    {
+      "from": "2020-10-06 00:00:00",
+      "to": "2020-10-12 23:59:59",
+      "title": "🎂#CumpleCarrefour",
+      "thumb": "./assets/cumplecarrefour/2020/06al12/hiper/interior/docs/aniversario-2-HIPER-INTERIOR-alta.pdf_1_thumb.jpg",
+      "link": "./assets/cumplecarrefour/2020/06al12/hiper/interior/"
+    },
+    {
+      "from": "2020-09-25 00:00:00",
+      "to": "2020-10-05 23:59:59",
+      "title": "🥳#CumpleCarrefour",
+      "thumb": "./assets/cumplecarrefour/2020/25al05/hiper/interior/docs/Aniversario-1-HIPER-INT_25-09-20-alta.pdf_1_thumb.jpg",
+      "link": "./assets/cumplecarrefour/2020/25al05/hiper/interior/"
+    },
+    {
+      "from": "2020-09-18 00:00:00",
+      "to": "2020-10-12 23:59:59",
+      "title": "Colecci&oacute;n TEX Primavera Verano",
+      "thumb": "./assets/tex_primavera/docs/Catalogo-Tex-PV-20-21.pdf_1_thumb.jpg",
+      "link": "./assets/tex_primavera/"
+    },
+    {
+      "from": "2020-10-01 00:00:00",
+      "to": "2020-10-27 23:59:59",
+      "title": "Tiempo Libre",
+      "thumb": "./assets/tiempo_libre/docs/Tiempo-Libre.pdf_1_thumb.jpg",
+      "link": "./assets/tiempo_libre/"
+    }
+  ],
+  "entreRios": [
+    {
+      "from": "2020-10-06 00:00:00",
+      "to": "2020-10-12 23:59:59",
+      "title": "🎂#CumpleCarrefour",
+      "thumb": "./assets/cumplecarrefour/2020/06al12/hiper/interior/docs/aniversario-2-HIPER-INTERIOR-alta.pdf_1_thumb.jpg",
+      "link": "./assets/cumplecarrefour/2020/06al12/hiper/interior/"
+    },
+    {
+      "from": "2020-10-06 00:00:00",
+      "to": "2020-10-12 23:59:59",
+      "title": "🎂#CumpleCarrefour",
+      "thumb": "./assets/cumplecarrefour/2020/06al12/market/interior/docs/aniversario-2-MARKET-INTERIOR-alta.pdf_1_thumb.jpg",
+      "link": "./assets/cumplecarrefour/2020/06al12/market/interior/"
+    },
+    {
+      "from": "2020-09-25 00:00:00",
+      "to": "2020-10-05 23:59:59",
+      "title": "🥳#CumpleCarrefour",
+      "thumb": "./assets/cumplecarrefour/2020/25al05/hiper/interior/docs/Aniversario-1-HIPER-INT_25-09-20-alta.pdf_1_thumb.jpg",
+      "link": "./assets/cumplecarrefour/2020/25al05/hiper/interior/"
+    },
+    {
+      "from": "2020-09-25 00:00:00",
+      "to": "2020-10-05 23:59:59",
+      "title": "🥳#CumpleCarrefour",
+      "thumb": "./assets/cumplecarrefour/2020/25al05/market/interior/docs/Aniversario-1-MARKET-INTERIOR-25-09-20-alta.pdf_1_thumb.jpg",
+      "link": "./assets/cumplecarrefour/2020/25al05/market/interior/"
+    },
+    {
+      "from": "2020-09-18 00:00:00",
+      "to": "2020-10-12 23:59:59",
+      "title": "Colecci&oacute;n TEX Primavera Verano",
+      "thumb": "./assets/tex_primavera/docs/Catalogo-Tex-PV-20-21.pdf_1_thumb.jpg",
+      "link": "./assets/tex_primavera/"
+    },
+    {
+      "from": "2020-10-01 00:00:00",
+      "to": "2020-10-27 23:59:59",
+      "title": "Tiempo Libre",
+      "thumb": "./assets/tiempo_libre/docs/Tiempo-Libre.pdf_1_thumb.jpg",
+      "link": "./assets/tiempo_libre/"
+    }
+  ],
+  "formosa": [
+    {
+      "from": "2020-10-06 00:00:00",
+      "to": "2020-10-12 23:59:59",
+      "title": "🎂#CumpleCarrefour",
+      "thumb": "./assets/cumplecarrefour/2020/06al12/hiper/interior/docs/aniversario-2-HIPER-INTERIOR-alta.pdf_1_thumb.jpg",
+      "link": "./assets/cumplecarrefour/2020/06al12/hiper/interior/"
+    },
+    {
+      "from": "2020-09-25 00:00:00",
+      "to": "2020-10-05 23:59:59",
+      "title": "🥳#CumpleCarrefour",
+      "thumb": "./assets/cumplecarrefour/2020/25al05/market/interior/docs/Aniversario-1-MARKET-INTERIOR-25-09-20-alta.pdf_1_thumb.jpg",
+      "link": "./assets/cumplecarrefour/2020/25al05/market/interior/"
+    },
+    {
+      "from": "2020-09-18 00:00:00",
+      "to": "2020-10-12 23:59:59",
+      "title": "Colecci&oacute;n TEX Primavera Verano",
+      "thumb": "./assets/tex_primavera/docs/Catalogo-Tex-PV-20-21.pdf_1_thumb.jpg",
+      "link": "./assets/tex_primavera/"
+    },
+    {
+      "from": "2020-10-01 00:00:00",
+      "to": "2020-10-27 23:59:59",
+      "title": "Tiempo Libre",
+      "thumb": "./assets/tiempo_libre/docs/Tiempo-Libre.pdf_1_thumb.jpg",
+      "link": "./assets/tiempo_libre/"
+    }
+  ],
+  "jujuy": [
+    {
+      "from": "2020-10-06 00:00:00",
+      "to": "2020-10-12 23:59:59",
+      "title": "🎂#CumpleCarrefour",
+      "thumb": "./assets/cumplecarrefour/2020/06al12/market/interior/docs/aniversario-2-MARKET-INTERIOR-alta.pdf_1_thumb.jpg",
+      "link": "./assets/cumplecarrefour/2020/06al12/market/interior/"
+    },
+    {
+      "from": "2020-09-25 00:00:00",
+      "to": "2020-10-05 23:59:59",
+      "title": "🥳#CumpleCarrefour",
+      "thumb": "./assets/cumplecarrefour/2020/25al05/market/interior/docs/Aniversario-1-MARKET-INTERIOR-25-09-20-alta.pdf_1_thumb.jpg",
+      "link": "./assets/cumplecarrefour/2020/25al05/market/interior/"
+    }
+  ],
+  "laPampa": [
+    {
+      "from": "2020-10-06 00:00:00",
+      "to": "2020-10-12 23:59:59",
+      "title": "🎂#CumpleCarrefour",
+      "thumb": "./assets/cumplecarrefour/2020/06al12/hiper/interior/docs/aniversario-2-HIPER-INTERIOR-alta.pdf_1_thumb.jpg",
+      "link": "./assets/cumplecarrefour/2020/06al12/hiper/interior/"
+    },
+    {
+      "from": "2020-09-25 00:00:00",
+      "to": "2020-10-05 23:59:59",
+      "title": "🥳#CumpleCarrefour",
+      "thumb": "./assets/cumplecarrefour/2020/25al05/hiper/interior/docs/Aniversario-1-HIPER-INT_25-09-20-alta.pdf_1_thumb.jpg",
+      "link": "./assets/cumplecarrefour/2020/25al05/hiper/interior/"
+    }
+  ],
+  "laRioja": [
+    {
+      "from": "2020-10-06 00:00:00",
+      "to": "2020-10-12 23:59:59",
+      "title": "🎂#CumpleCarrefour",
+      "thumb": "./assets/cumplecarrefour/2020/06al12/market/interior/docs/aniversario-2-MARKET-INTERIOR-alta.pdf_1_thumb.jpg",
+      "link": "./assets/cumplecarrefour/2020/06al12/market/interior/"
+    },
+    {
+      "from": "2020-09-25 00:00:00",
+      "to": "2020-10-05 23:59:59",
+      "title": "🥳#CumpleCarrefour",
+      "thumb": "./assets/cumplecarrefour/2020/25al05/market/interior/docs/Aniversario-1-MARKET-INTERIOR-25-09-20-alta.pdf_1_thumb.jpg",
+      "link": "./assets/cumplecarrefour/2020/25al05/market/interior/"
+    }
+  ],
+  "mendoza": [
+    {
+      "from": "2020-10-06 00:00:00",
+      "to": "2020-10-12 23:59:59",
+      "title": "🎂#CumpleCarrefour",
+      "thumb": "./assets/cumplecarrefour/2020/06al12/hiper/interior/docs/aniversario-2-HIPER-INTERIOR-alta.pdf_1_thumb.jpg",
+      "link": "./assets/cumplecarrefour/2020/06al12/hiper/interior/"
+    },
+    {
+      "from": "2020-10-06 00:00:00",
+      "to": "2020-10-12 23:59:59",
+      "title": "🎂#CumpleCarrefour",
+      "thumb": "./assets/cumplecarrefour/2020/06al12/market/interior/docs/aniversario-2-MARKET-INTERIOR-alta.pdf_1_thumb.jpg",
+      "link": "./assets/cumplecarrefour/2020/06al12/market/interior/"
+    },
+    {
+      "from": "2020-09-25 00:00:00",
+      "to": "2020-10-05 23:59:59",
+      "title": "🥳#CumpleCarrefour",
+      "thumb": "./assets/cumplecarrefour/2020/25al05/hiper/interior/docs/Aniversario-1-HIPER-INT_25-09-20-alta.pdf_1_thumb.jpg",
+      "link": "./assets/cumplecarrefour/2020/25al05/hiper/interior/"
+    },
+    {
+      "from": "2020-09-25 00:00:00",
+      "to": "2020-10-05 23:59:59",
+      "title": "🥳#CumpleCarrefour",
+      "thumb": "./assets/cumplecarrefour/2020/25al05/market/interior/docs/Aniversario-1-MARKET-INTERIOR-25-09-20-alta.pdf_1_thumb.jpg",
+      "link": "./assets/cumplecarrefour/2020/25al05/market/interior/"
+    },
+    {
+      "from": "2020-09-18 00:00:00",
+      "to": "2020-10-12 23:59:59",
+      "title": "Colecci&oacute;n TEX Primavera Verano",
+      "thumb": "./assets/tex_primavera/docs/Catalogo-Tex-PV-20-21.pdf_1_thumb.jpg",
+      "link": "./assets/tex_primavera/"
+    },
+    {
+      "from": "2020-10-01 00:00:00",
+      "to": "2020-10-27 23:59:59",
+      "title": "Tiempo Libre",
+      "thumb": "./assets/tiempo_libre/docs/Tiempo-Libre.pdf_1_thumb.jpg",
+      "link": "./assets/tiempo_libre/"
+    }
+  ],
+  "neuquen": [
+    {
+      "from": "2020-10-06 00:00:00",
+      "to": "2020-10-12 23:59:59",
+      "title": "🎂#CumpleCarrefour",
+      "thumb": "./assets/cumplecarrefour/2020/06al12/hiper/sur/docs/aniversario-2-SUR-alta.pdf_1_thumb.jpg",
+      "link": "./assets/cumplecarrefour/2020/06al12/hiper/sur/"
+    },
+    {
+      "from": "2020-09-25 00:00:00",
+      "to": "2020-10-05 23:59:59",
+      "title": "🥳#CumpleCarrefour",
+      "thumb": "./assets/cumplecarrefour/2020/25al05/hiper/sur/docs/Aniversario-1-SUR-_25-09-20_alta.pdf_1_thumb.jpg",
+      "link": "./assets/cumplecarrefour/2020/25al05/hiper/sur/"
+    },
+    {
+      "from": "2020-09-18 00:00:00",
+      "to": "2020-10-12 23:59:59",
+      "title": "Colecci&oacute;n TEX Primavera Verano",
+      "thumb": "./assets/tex_primavera/docs/Catalogo-Tex-PV-20-21.pdf_1_thumb.jpg",
+      "link": "./assets/tex_primavera/"
+    },
+    {
+      "from": "2020-10-01 00:00:00",
+      "to": "2020-10-27 23:59:59",
+      "title": "Tiempo Libre",
+      "thumb": "./assets/tiempo_libre/docs/Tiempo-Libre.pdf_1_thumb.jpg",
+      "link": "./assets/tiempo_libre/"
+    }
+  ],
+  "rioNegro": [
+    {
+      "from": "2020-10-06 00:00:00",
+      "to": "2020-10-12 23:59:59",
+      "title": "🎂#CumpleCarrefour",
+      "thumb": "./assets/cumplecarrefour/2020/06al12/hiper/sur/docs/aniversario-2-SUR-alta.pdf_1_thumb.jpg",
+      "link": "./assets/cumplecarrefour/2020/06al12/hiper/sur/"
+    },
+    {
+      "from": "2020-09-25 00:00:00",
+      "to": "2020-10-05 23:59:59",
+      "title": "🥳#CumpleCarrefour",
+      "thumb": "./assets/cumplecarrefour/2020/25al05/hiper/sur/docs/Aniversario-1-SUR-_25-09-20_alta.pdf_1_thumb.jpg",
+      "link": "./assets/cumplecarrefour/2020/25al05/hiper/sur/"
+    }
+  ],
+  "salta": [
+    {
+      "from": "2020-10-06 00:00:00",
+      "to": "2020-10-12 23:59:59",
+      "title": "🎂#CumpleCarrefour",
+      "thumb": "./assets/cumplecarrefour/2020/06al12/hiper/interior/docs/aniversario-2-HIPER-INTERIOR-alta.pdf_1_thumb.jpg",
+      "link": "./assets/cumplecarrefour/2020/06al12/hiper/interior/"
+    },
+    {
+      "from": "2020-09-25 00:00:00",
+      "to": "2020-10-05 23:59:59",
+      "title": "🥳#CumpleCarrefour",
+      "thumb": "./assets/cumplecarrefour/2020/25al05/hiper/interior/docs/Aniversario-1-HIPER-INT_25-09-20-alta.pdf_1_thumb.jpg",
+      "link": "./assets/cumplecarrefour/2020/25al05/hiper/interior/"
+    }
+  ],
+  "sanJuan": [
+    {
+      "from": "2020-10-06 00:00:00",
+      "to": "2020-10-12 23:59:59",
+      "title": "🎂#CumpleCarrefour",
+      "thumb": "./assets/cumplecarrefour/2020/06al12/hiper/interior/docs/aniversario-2-HIPER-INTERIOR-alta.pdf_1_thumb.jpg",
+      "link": "./assets/cumplecarrefour/2020/06al12/hiper/interior/"
+    },
+    {
+      "from": "2020-09-25 00:00:00",
+      "to": "2020-10-05 23:59:59",
+      "title": "🥳#CumpleCarrefour",
+      "thumb": "./assets/cumplecarrefour/2020/25al05/hiper/interior/docs/Aniversario-1-HIPER-INT_25-09-20-alta.pdf_1_thumb.jpg",
+      "link": "./assets/cumplecarrefour/2020/25al05/hiper/interior/"
+    }
+  ],
+  "sanLuis": [
+    {
+      "from": "2020-10-06 00:00:00",
+      "to": "2020-10-12 23:59:59",
+      "title": "🎂#CumpleCarrefour",
+      "thumb": "./assets/cumplecarrefour/2020/06al12/hiper/interior/docs/aniversario-2-HIPER-INTERIOR-alta.pdf_1_thumb.jpg",
+      "link": "./assets/cumplecarrefour/2020/06al12/hiper/interior/"
+    },
+    {
+      "from": "2020-10-06 00:00:00",
+      "to": "2020-10-12 23:59:59",
+      "title": "🎂#CumpleCarrefour",
+      "thumb": "./assets/cumplecarrefour/2020/06al12/market/interior/docs/aniversario-2-MARKET-INTERIOR-alta.pdf_1_thumb.jpg",
+      "link": "./assets/cumplecarrefour/2020/06al12/market/interior/"
+    },
+    {
+      "from": "2020-09-25 00:00:00",
+      "to": "2020-10-05 23:59:59",
+      "title": "🥳#CumpleCarrefour",
+      "thumb": "./assets/cumplecarrefour/2020/25al05/hiper/interior/docs/Aniversario-1-HIPER-INT_25-09-20-alta.pdf_1_thumb.jpg",
+      "link": "./assets/cumplecarrefour/2020/25al05/hiper/interior/"
+    },
+    {
+      "from": "2020-09-25 00:00:00",
+      "to": "2020-10-05 23:59:59",
+      "title": "🥳#CumpleCarrefour",
+      "thumb": "./assets/cumplecarrefour/2020/25al05/market/interior/docs/Aniversario-1-MARKET-INTERIOR-25-09-20-alta.pdf_1_thumb.jpg",
+      "link": "./assets/cumplecarrefour/2020/25al05/market/interior/"
+    }
+  ],
+  "santaCruz": [
+    {
+      "from": "2020-10-06 00:00:00",
+      "to": "2020-10-12 23:59:59",
+      "title": "🎂#CumpleCarrefour",
+      "thumb": "./assets/cumplecarrefour/2020/06al12/hiper/sur/docs/aniversario-2-SUR-alta.pdf_1_thumb.jpg",
+      "link": "./assets/cumplecarrefour/2020/06al12/hiper/sur/"
+    },
+    {
+      "from": "2020-09-25 00:00:00",
+      "to": "2020-10-05 23:59:59",
+      "title": "🥳#CumpleCarrefour",
+      "thumb": "./assets/cumplecarrefour/2020/25al05/hiper/sur/docs/Aniversario-1-SUR-_25-09-20_alta.pdf_1_thumb.jpg",
+      "link": "./assets/cumplecarrefour/2020/25al05/hiper/sur/"
+    },
+    {
+      "from": "2020-09-18 00:00:00",
+      "to": "2020-10-12 23:59:59",
+      "title": "Colecci&oacute;n TEX Primavera Verano",
+      "thumb": "./assets/tex_primavera/docs/Catalogo-Tex-PV-20-21.pdf_1_thumb.jpg",
+      "link": "./assets/tex_primavera/"
+    },
+    {
+      "from": "2020-10-01 00:00:00",
+      "to": "2020-10-27 23:59:59",
+      "title": "Tiempo Libre",
+      "thumb": "./assets/tiempo_libre/docs/Tiempo-Libre.pdf_1_thumb.jpg",
+      "link": "./assets/tiempo_libre/"
+    }
+  ],
+  "santaFe": [
+    {
+      "from": "2020-10-06 00:00:00",
+      "to": "2020-10-12 23:59:59",
+      "title": "🎂#CumpleCarrefour",
+      "thumb": "./assets/cumplecarrefour/2020/06al12/hiper/interior/docs/aniversario-2-HIPER-INTERIOR-alta.pdf_1_thumb.jpg",
+      "link": "./assets/cumplecarrefour/2020/06al12/hiper/interior/"
+    },
+    {
+      "from": "2020-09-25 00:00:00",
+      "to": "2020-10-05 23:59:59",
+      "title": "🥳#CumpleCarrefour",
+      "thumb": "./assets/cumplecarrefour/2020/25al05/hiper/interior/docs/Aniversario-1-HIPER-INT_25-09-20-alta.pdf_1_thumb.jpg",
+      "link": "./assets/cumplecarrefour/2020/25al05/hiper/interior/"
+    },
+    {
+      "from": "2020-09-18 00:00:00",
+      "to": "2020-10-12 23:59:59",
+      "title": "Colecci&oacute;n TEX Primavera Verano",
+      "thumb": "./assets/tex_primavera/docs/Catalogo-Tex-PV-20-21.pdf_1_thumb.jpg",
+      "link": "./assets/tex_primavera/"
+    },
+    {
+      "from": "2020-10-01 00:00:00",
+      "to": "2020-10-27 23:59:59",
+      "title": "Tiempo Libre",
+      "thumb": "./assets/tiempo_libre/docs/Tiempo-Libre.pdf_1_thumb.jpg",
+      "link": "./assets/tiempo_libre/"
+    }
+  ],
+  "tierraDelFuego": [
+    {
+      "from": "2020-10-06 00:00:00",
+      "to": "2020-10-12 23:59:59",
+      "title": "🎂#CumpleCarrefour",
+      "thumb": "./assets/cumplecarrefour/2020/06al12/hiper/sur/docs/aniversario-2-SUR-alta.pdf_1_thumb.jpg",
+      "link": "./assets/cumplecarrefour/2020/06al12/hiper/sur/"
+    },
+    {
+      "from": "2020-09-25 00:00:00",
+      "to": "2020-10-05 23:59:59",
+      "title": "🥳#CumpleCarrefour",
+      "thumb": "./assets/cumplecarrefour/2020/25al05/hiper/sur/docs/Aniversario-1-SUR-_25-09-20_alta.pdf_1_thumb.jpg",
+      "link": "./assets/cumplecarrefour/2020/25al05/hiper/sur/"
+    }
+  ],
+  "tucuman": [
+    {
+      "from": "2020-10-06 00:00:00",
+      "to": "2020-10-12 23:59:59",
+      "title": "🎂#CumpleCarrefour",
+      "thumb": "./assets/cumplecarrefour/2020/06al12/hiper/interior/docs/aniversario-2-HIPER-INTERIOR-alta.pdf_1_thumb.jpg",
+      "link": "./assets/cumplecarrefour/2020/06al12/hiper/interior/"
+    },
+    {
+      "from": "2020-10-06 00:00:00",
+      "to": "2020-10-12 23:59:59",
+      "title": "🎂#CumpleCarrefour",
+      "thumb": "./assets/cumplecarrefour/2020/06al12/market/interior/docs/aniversario-2-MARKET-INTERIOR-alta.pdf_1_thumb.jpg",
+      "link": "./assets/cumplecarrefour/2020/06al12/market/interior/"
+    },
+    {
+      "from": "2020-09-25 00:00:00",
+      "to": "2020-10-05 23:59:59",
+      "title": "🥳#CumpleCarrefour",
+      "thumb": "./assets/cumplecarrefour/2020/25al05/hiper/interior/docs/Aniversario-1-HIPER-INT_25-09-20-alta.pdf_1_thumb.jpg",
+      "link": "./assets/cumplecarrefour/2020/25al05/hiper/interior/"
+    },
+    {
+      "from": "2020-09-25 00:00:00",
+      "to": "2020-10-05 23:59:59",
+      "title": "🥳#CumpleCarrefour",
+      "thumb": "./assets/cumplecarrefour/2020/25al05/market/interior/docs/Aniversario-1-MARKET-INTERIOR-25-09-20-alta.pdf_1_thumb.jpg",
+      "link": "./assets/cumplecarrefour/2020/25al05/market/interior/"
+    },
+    {
+      "from": "2020-09-18 00:00:00",
+      "to": "2020-10-12 23:59:59",
+      "title": "Colecci&oacute;n TEX Primavera Verano",
+      "thumb": "./assets/tex_primavera/docs/Catalogo-Tex-PV-20-21.pdf_1_thumb.jpg",
+      "link": "./assets/tex_primavera/"
+    },
+    {
+      "from": "2020-10-01 00:00:00",
+      "to": "2020-10-27 23:59:59",
+      "title": "Tiempo Libre",
+      "thumb": "./assets/tiempo_libre/docs/Tiempo-Libre.pdf_1_thumb.jpg",
+      "link": "./assets/tiempo_libre/"
+    }
+  ]
+}
